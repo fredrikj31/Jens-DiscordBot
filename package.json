@@ -1,0 +1,25 @@
+{
+  "name": "jens-discordbot",
+  "version": "1.0.0",
+  "description": "A discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredrikj31/Jens-DiscordBot.git"
+  },
+  "author": "fredrikj31",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredrikj31/Jens-DiscordBot/issues"
+  },
+  "homepage": "https://github.com/fredrikj31/Jens-DiscordBot#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "discord.js": "^12.1.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.0.1"
+  }
+}
